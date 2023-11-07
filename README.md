@@ -1,9 +1,5 @@
 ### Hi there 🙌
 
-# GitHub Status
-
-![Lumiere001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumiere&show_icons=true&theme=tokyonight)
-
 # language usage
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiere001&layout=compact&theme=merko)
@@ -20,4 +16,6 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={ehdrb2112e}&theme=dark)
 
-<img src="http://mazandi.herokuapp.com/api?handle={ehdrb2112e}&theme=dark"/>
+# GitHub Status
+
+![Lumiere001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumiere&show_icons=true&theme=tokyonight)
