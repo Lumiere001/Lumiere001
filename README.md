@@ -1,17 +1,20 @@
-### Hi there 🙌
+# East Star
 
-# language usage
+## Mission
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiere001&layout=compact&theme=merko)
+I believe good communities make a good world. I want to use technology to connect people with people.
 
-# GitHub Status
+## About
 
-![Lumiere001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumiere&show_icons=true&theme=tokyonight)
+I'm interested in reinforcement learning, machine learning, and AI-driven automation.
 
-# Visit
+## Interests
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLumiere001&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Reinforcement Learning · Machine Learning · AI Automation · Building communities
 
-# Backjoon
+## 📊 GitHub Stats
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ehdrb2112e)](https://solved.ac/ehdrb2112e)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lumiere001&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiere001&layout=compact&theme=tokyonight" height="165" />
+</p>
